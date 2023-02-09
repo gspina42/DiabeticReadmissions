@@ -1,0 +1,14 @@
+name: ADSFinalProject
+title: ADSFinalProject
+username:
+account: nwise
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5308172
+bundleId: 5357860
+url: https://nwise.shinyapps.io/ADSFinalProject/
+when: 1639184420.25096
+lastSyncTime: 1639184420.25097
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: diabetic_data_test.csv|loading.gif
